@@ -5,7 +5,7 @@
 SendMode Input
 SetWorkingDir %A_ScriptDir%
 
-ClipCursor(Confines := True, Left := 100, Top := 200, Right := 800, Bottom := 900)
+ClipCursor(Confines := True, Left := 0, Top := 0, Right := 1080, Bottom := 1)
 {
     if !(Confines)
         return DllCall("user32.dll\ClipCursor")
