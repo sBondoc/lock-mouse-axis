@@ -1,4 +1,4 @@
-clipCursor(confines := True, left := 0, top := 0, right := 1080, bottom := 1) {
+﻿clipCursor(confines := True, left := 0, top := 0, right := 1080, bottom := 1) {
 	if (!confines) {
 		return DllCall("user32.dll\ClipCursor")
 	}
