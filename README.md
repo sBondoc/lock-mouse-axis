@@ -11,5 +11,5 @@ Hold the back button on the mouse (XButton1) to lock mouse movement to the horiz
 
 ## To-Do
 
-* Add key configuration
+* Add key configuration GUI
 * Add custom axis configuration
