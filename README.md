@@ -7,7 +7,8 @@ Download and run `Lock Mouse Axis.exe`.
 
 ## Usage
 
-Hold the back button on the mouse (XButton1) to lock mmouse movement on the y-axis—allowing only horizontal movement on the x-axis—and the forward button on the mouse (XButton2) to lock mmouse movement on the y-axis—allowing only horizontal movement on the y-axis. Holding both down locks all cursor movement.
+Hold `⊞ Win + Shift + S` to lock mmouse movement on the y-axis—allowing only horizontal movement on the x-axis—and `⊞ Win + Shift + D` to lock mmouse movement on the y-axis—allowing only horizontal movement on the y-axis. Holding both down locks all cursor movement.
+
 ## To-Do
 
 * Add key configuration GUI
