@@ -1,9 +1,7 @@
 # Lock Mouse Axis
-Simple script to lock mouse cursor movement to the horizontal or vertical axis.
+Simple script to lock mouse cursor movement to the horizontal or vertical axis. Made with [AutoHotkey](https://www.autohotkey.com/ "AutoHotkey").
 
 ![Demo](img/00.gif)
-
-Made with [AutoHotkey](https://www.autohotkey.com/ "AutoHotkey").
 
 ## Installation
 
