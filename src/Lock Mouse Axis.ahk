@@ -17,8 +17,8 @@ clipCursor(confines := True, left := 0, top := 0, right := 1080, bottom := 1) {
 SendMode Input
 SetWorkingDir %A_ScriptDir%
 
-yLock := "XButton1"	; button to lock y-axis, allowing only horizontal movement on the x-axis
-xLock := "XButton2"	; button to lock x-axis, allowing only vertical movement on the y-axis
+yLock := "#*s"	; hotkey to lock y-axis, allowing only horizontal movement on the x-axis
+xLock := "#*d"	; hotkey to lock x-axis, allowing only vertical movement on the y-axis
 
 clip := 0
 xMin := 0
